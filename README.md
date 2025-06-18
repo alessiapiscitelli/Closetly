@@ -1,4 +1,7 @@
 # Closetly
+
+👗 Closetly: Your Personal Closet Organizer
+
 Revolutionize your wardrobe management with Closetly, the app designed to keep your outfits organized and your mornings stress-free. 
 Stop searching for what to wear and start enjoying your style effortlessly!
 
